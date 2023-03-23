@@ -1,0 +1,29 @@
+A rotating 3-plate fan consists of three blades that are angled to create a rotational force when spun. The cubic root of 1 is used in the design of the 
+fan to ensure that the blades are evenly spaced around the central axis.
+
+To understand this, we can start by considering the unit circle in the complex plane, which is a circle of radius 1 centered at the origin. The cubic roots
+of 1 are the three complex numbers that satisfy the equation z^3 = 1.
+
+These roots can be expressed in polar form as:
+
+1 = 1(cos(0) + i*sin(0))
+-1/2 + i*(√ (3)/2) = 1(cos(2π/3) + i*sin(2π/3)) = e^(i*(2π/3))
+-1/2 - i*(√ (3)/2) = 1(cos(4π/3) + i*sin(4π/3)) = e^(i*(4π/3))
+
+Now, let's consider the three blades of the fan as being positioned at the three roots of 1 in the complex plane. We can then rotate the fan by an angle of
+2π/3 radians (or 120 degrees) to move each blade to the next root.
+
+(Point to be noted: The three cubic roots of 1 are spaced evenly around the unit circle in the complex plane, with each root separated by an angle of 
+360/3 = 120 degrees.
+
+To see why this is the case, you can think of the three roots as lying at the vertices of an equilateral triangle inscribed in the unit circle. Each vertex
+corresponds to one of the roots, and the sides of the triangle are formed by the radii connecting the center of the circle to the vertices.
+
+Since an equilateral triangle has all three angles equal to 60 degrees, the angle at the center of the circle subtended by each side of the triangle is 
+120 degrees. This means that the angle between any two consecutive roots of unity is 120 degrees, and the roots are evenly spaced around the circle.)
+
+By doing this, we ensure that the blades are evenly spaced around the central axis, which results in a smooth and balanced rotation. If the blades were 
+not evenly spaced, it would create an imbalance in the fan, which could lead to vibration, noise, and reduced efficiency.
+
+Therefore, the cubic root of 1 plays an important role in the design of the rotating 3-plate fan by ensuring that the blades are evenly spaced and the 
+fan operates smoothly.
