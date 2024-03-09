@@ -1,1 +1,1 @@
-Math Blogs 101
+Math Blogs
